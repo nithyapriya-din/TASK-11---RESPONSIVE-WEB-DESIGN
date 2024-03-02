@@ -1,0 +1,27 @@
+.Award-head{
+    display: grid;
+    justify-content: center;
+    /* text-align: center; */
+    margin: 100px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    
+}
+.boxs{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4,1fr);
+    margin: 20px;
+}
+.boxs > *
+{
+    display: grid;
+    
+}
+
+.acheive{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}

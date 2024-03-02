@@ -1,0 +1,9 @@
+.ban{
+    background-color: black;
+    color: white;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    
+}

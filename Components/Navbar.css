@@ -1,0 +1,17 @@
+.nav{
+    border: 1px solid;
+    display: flex;
+    background-color: black;
+}
+h3{
+    color: white;
+    padding: 0px 30px;
+    margin: 0px 0px 0px 50px;
+}
+
+@media all and (max-width:820px)
+{
+    /* grid-template-columns: repeat(3,1fr); */
+    display: none;
+}
+
